@@ -1,0 +1,30 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutProjectManager.cshtml";
+    ViewBag.Title = "Index";
+}
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Projektmanager</h1>
+    <p>Bitte wählen sie ob sie ein neues Projekt erstellen oder zur Übersicht wechseln möchten</a>.</p>
+</div>
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+
+
+
+<body>
+
+
+    <div class="container" role="main">
+
+        <div class="center-block text-center">
+            <a asp-action="AddWorkstation"><button type="submit" class="btn btn-dark">Neues Projekt</button></a>
+            <a asp-action="Overview"><button type="submit" class="btn btn-dark">Übersicht</button></a>
+        </div>
+
+
+</body>

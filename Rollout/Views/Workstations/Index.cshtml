@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Rollout.Data.EntityModels.WorkStations>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutProjectManager.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Serialnumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmissionsReport)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ticketnumber)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Serialnumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmissionsReport)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ticketnumber)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.WorkStationId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.WorkStationId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.WorkStationId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,15 @@
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\bin\Debug\net5.0\Rollout.Data.deps.json
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\bin\Debug\net5.0\Rollout.Data.dll
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\bin\Debug\net5.0\ref\Rollout.Data.dll
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\bin\Debug\net5.0\Rollout.Data.pdb
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\obj\Debug\net5.0\Rollout.Data.csproj.AssemblyReference.cache
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\obj\Debug\net5.0\Rollout.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\obj\Debug\net5.0\Rollout.Data.AssemblyInfoInputs.cache
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\obj\Debug\net5.0\Rollout.Data.AssemblyInfo.cs
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\obj\Debug\net5.0\Rollout.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\obj\Debug\net5.0\Rollout.Data.dll
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\obj\Debug\net5.0\ref\Rollout.Data.dll
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\obj\Debug\net5.0\Rollout.Data.pdb
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\bin\Debug\net5.0\Rollout.Data.runtimeconfig.json
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\bin\Debug\net5.0\Rollout.Data.runtimeconfig.dev.json
+C:\Users\Dennisserafin\source\repos\Rollout\Rollout.Data\obj\Debug\net5.0\Rollout.Data.genruntimeconfig.cache
